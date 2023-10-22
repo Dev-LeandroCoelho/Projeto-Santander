@@ -1,6 +1,2 @@
-nome,idade,cidade
-Alice,28,New York
-Bob,35,Los Angeles
-Charlie,42,San Francisco
-David,30,Chicago
-Eva,29,Boston
+nome,conta,agencia,cartao
+teste,9478,4267-7,****-****-9012-****
