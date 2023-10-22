@@ -1,6 +1,3 @@
-# Projeto-Santander
-Desafio do projeto Dio
-
 ### Olá! Eu sou o Leandro Coelho 🖐🏽
 📫 Vamos nos conectar?<br/>
 <!--[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)-->
